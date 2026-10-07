@@ -5,5 +5,5 @@
 Team of two. We analysed market structure across 50 assets and developed two main Python strategy families:
 * spread mean reversion across correlated asset groups and
 * single-asset mean reversion with volatility-aware execution.
-* 
+  
 In the final round, the strategies increased cumulative PnL from 207k to 790k under live simulated market conditions.
